@@ -1,0 +1,6 @@
+artifact_location: file:///Users/egortuzarov/Chrom_pred/mlruns/747735610452924730
+creation_time: 1730486723924
+experiment_id: '747735610452924730'
+last_update_time: 1730486723924
+lifecycle_stage: active
+name: xgboost_regression_experiment

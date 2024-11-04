@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3246966074b14095b3470db5c1be5640/artifacts
+end_time: 1730485692772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3246966074b14095b3470db5c1be5640
+run_name: rogue-yak-65
+run_uuid: 3246966074b14095b3470db5c1be5640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730485184511
+status: 4
+tags: []
+user_id: egortuzarov

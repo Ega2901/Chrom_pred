@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9093e38a7a324bddb728e2966f62f797/artifacts
+end_time: 1730485030458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9093e38a7a324bddb728e2966f62f797
+run_name: masked-horse-133
+run_uuid: 9093e38a7a324bddb728e2966f62f797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730485030418
+status: 4
+tags: []
+user_id: egortuzarov

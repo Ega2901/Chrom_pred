@@ -1,0 +1,9 @@
+digest: cea807bd
+name: dataset
+profile: '{"features_shape": [80572, 58], "features_size": 4673176, "features_nbytes":
+  18692704}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 58]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "egortuzarov", "mlflow.source.name": "model_train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "d238f718a7e066edb59ee4ca676a4393feeaf778"}}'
+source_type: code

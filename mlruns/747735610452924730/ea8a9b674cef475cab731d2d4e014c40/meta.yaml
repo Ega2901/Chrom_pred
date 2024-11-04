@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/egortuzarov/Chrom_pred/mlruns/747735610452924730/ea8a9b674cef475cab731d2d4e014c40/artifacts
+end_time: 1730486977715
+entry_point_name: ''
+experiment_id: '747735610452924730'
+lifecycle_stage: active
+run_id: ea8a9b674cef475cab731d2d4e014c40
+run_name: gaudy-fowl-395
+run_uuid: ea8a9b674cef475cab731d2d4e014c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730486970183
+status: 3
+tags: []
+user_id: egortuzarov

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/egortuzarov/Chrom_pred/mlruns/747735610452924730/a31cf5fc334e47b394fbad7c8461fd57/artifacts
+end_time: 1730487133352
+entry_point_name: ''
+experiment_id: '747735610452924730'
+lifecycle_stage: active
+run_id: a31cf5fc334e47b394fbad7c8461fd57
+run_name: stately-perch-697
+run_uuid: a31cf5fc334e47b394fbad7c8461fd57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730487123903
+status: 3
+tags: []
+user_id: egortuzarov

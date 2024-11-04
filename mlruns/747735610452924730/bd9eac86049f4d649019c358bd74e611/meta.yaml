@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/egortuzarov/Chrom_pred/mlruns/747735610452924730/bd9eac86049f4d649019c358bd74e611/artifacts
+end_time: 1730486879747
+entry_point_name: ''
+experiment_id: '747735610452924730'
+lifecycle_stage: active
+run_id: bd9eac86049f4d649019c358bd74e611
+run_name: rogue-crow-697
+run_uuid: bd9eac86049f4d649019c358bd74e611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730486874463
+status: 3
+tags: []
+user_id: egortuzarov

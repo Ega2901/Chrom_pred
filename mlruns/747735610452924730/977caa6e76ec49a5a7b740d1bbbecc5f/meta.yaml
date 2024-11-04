@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/egortuzarov/Chrom_pred/mlruns/747735610452924730/977caa6e76ec49a5a7b740d1bbbecc5f/artifacts
+end_time: 1730486732778
+entry_point_name: ''
+experiment_id: '747735610452924730'
+lifecycle_stage: active
+run_id: 977caa6e76ec49a5a7b740d1bbbecc5f
+run_name: sincere-mare-66
+run_uuid: 977caa6e76ec49a5a7b740d1bbbecc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730486725790
+status: 3
+tags: []
+user_id: egortuzarov

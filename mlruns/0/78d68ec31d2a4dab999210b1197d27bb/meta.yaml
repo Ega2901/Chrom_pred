@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/78d68ec31d2a4dab999210b1197d27bb/artifacts
+end_time: 1730486087252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78d68ec31d2a4dab999210b1197d27bb
+run_name: nervous-bug-378
+run_uuid: 78d68ec31d2a4dab999210b1197d27bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730486003914
+status: 4
+tags: []
+user_id: egortuzarov

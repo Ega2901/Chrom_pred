@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3aad33a419bf4bfbb6d62e27d94f3e07/artifacts
+end_time: 1730486330509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aad33a419bf4bfbb6d62e27d94f3e07
+run_name: suave-flea-404
+run_uuid: 3aad33a419bf4bfbb6d62e27d94f3e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730486267500
+status: 4
+tags: []
+user_id: egortuzarov

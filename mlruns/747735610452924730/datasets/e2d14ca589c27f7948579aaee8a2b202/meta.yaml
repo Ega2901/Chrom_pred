@@ -1,0 +1,47 @@
+digest: 9bef780a
+name: dataset
+profile: '{"num_rows": 4241, "num_elements": 250219}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Unnamed:_0", "required": true},
+  {"type": "double", "name": "F01_N-O_", "required": true}, {"type": "double", "name":
+  "SaaO", "required": true}, {"type": "double", "name": "SaaN", "required": true},
+  {"type": "double", "name": "naasC", "required": true}, {"type": "double", "name":
+  "SsCH3", "required": true}, {"type": "double", "name": "ATSC1dv", "required": true},
+  {"type": "double", "name": "ATSC3dv", "required": true}, {"type": "double", "name":
+  "AATSC1dv", "required": true}, {"type": "double", "name": "AATSC1are", "required":
+  true}, {"type": "double", "name": "AATSC2dv", "required": true}, {"type": "double",
+  "name": "ATSC3s", "required": true}, {"type": "double", "name": "ATSC3se", "required":
+  true}, {"type": "double", "name": "AATSC2se", "required": true}, {"type": "double",
+  "name": "ATSC2m", "required": true}, {"type": "double", "name": "AATSC1se", "required":
+  true}, {"type": "double", "name": "BCUTse-1h", "required": true}, {"type": "double",
+  "name": "CATS2D_05_AL", "required": true}, {"type": "double", "name": "CATS2D_08_AL",
+  "required": true}, {"type": "double", "name": "CATS2D_03_AL", "required": true},
+  {"type": "double", "name": "CATS2D_04_AL", "required": true}, {"type": "double",
+  "name": "CATS2D_01_AA", "required": true}, {"type": "double", "name": "CATS2D_00_AA",
+  "required": true}, {"type": "double", "name": "CATS2D_02_LL", "required": true},
+  {"type": "double", "name": "CATS3D_04_AL", "required": true}, {"type": "double",
+  "name": "CATS3D_02_LL", "required": true}, {"type": "double", "name": "CATS3D_00_AA",
+  "required": true}, {"type": "double", "name": "CATS3D_01_AA", "required": true},
+  {"type": "double", "name": "QCss", "required": true}, {"type": "double", "name":
+  "QNmax", "required": true}, {"type": "double", "name": "Mnc", "required": true},
+  {"type": "double", "name": "Tnc", "required": true}, {"type": "double", "name":
+  "Rpc", "required": true}, {"type": "double", "name": "Chi0v", "required": true},
+  {"type": "double", "name": "Chi0n", "required": true}, {"type": "double", "name":
+  "RHSA", "required": true}, {"type": "double", "name": "FNSA-3", "required": true},
+  {"type": "long", "name": "Psychotic-80", "required": true}, {"type": "long", "name":
+  "Psychotic-50", "required": true}, {"type": "double", "name": "GATS5c", "required":
+  true}, {"type": "double", "name": "MATS1se", "required": true}, {"type": "double",
+  "name": "MATS2se", "required": true}, {"type": "double", "name": "MATS2dv", "required":
+  true}, {"type": "double", "name": "MATS2m", "required": true}, {"type": "double",
+  "name": "MATS3dv", "required": true}, {"type": "double", "name": "MATS3d", "required":
+  true}, {"type": "double", "name": "MATS1dv", "required": true}, {"type": "double",
+  "name": "MATS1are", "required": true}, {"type": "double", "name": "AMID_O", "required":
+  true}, {"type": "double", "name": "LipoaffinityIndex", "required": true}, {"type":
+  "double", "name": "ALOGP2", "required": true}, {"type": "double", "name": "Mor30i",
+  "required": true}, {"type": "double", "name": "slogPVSA7", "required": true}, {"type":
+  "double", "name": "P_VSA_s_6", "required": true}, {"type": "double", "name": "VSAEstate0",
+  "required": true}, {"type": "double", "name": "RDF020m", "required": true}, {"type":
+  "double", "name": "TDB06p", "required": true}, {"type": "double", "name": "TDB06e",
+  "required": true}, {"type": "double", "name": "TDB04i", "required": true}]}'
+source: '{"tags": {"mlflow.user": "egortuzarov", "mlflow.source.name": "model_train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "d238f718a7e066edb59ee4ca676a4393feeaf778"}}'
+source_type: code
